@@ -1,0 +1,6 @@
+{
+  "name": "OptiLuz IA",
+  "description": "Plataforma inteligente para la optimización de tarifas eléctricas y de gas utilizando IA Generativa para analizar facturas y recomendar las mejores ofertas del mercado español.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
